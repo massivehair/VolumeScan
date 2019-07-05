@@ -1,0 +1,1 @@
+Point grey camera - TIFF handling doesn't deal with the last frame well, and the FrameOrder isn't written correctly. U16 seems OK though.
